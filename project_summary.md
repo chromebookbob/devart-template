@@ -15,12 +15,10 @@ http://www.raspberrypi.org/forum/viewtopic.php?f=32&t=67125&p=490911#p490911
 
 
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
+ Github Project
+[Example Link](https://github.com/chromebookbob/devart-template "Click Here")
 
 ## Images & Videos
 
 ![Image](https://dl.dropboxusercontent.com/u/21889761/Study%20In%20Scarlet.jpg")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ

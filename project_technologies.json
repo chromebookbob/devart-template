@@ -1,16 +1,19 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            “Pygame”
         ],
         "platforms": [
-            "insert platforms"
+            “Python”
+	    “Google Books”
         ],
         "toolkits": [
-            "insert toolkits"
+            “Pygame”
         ]
     },
     "themes": [
-        "insert themes"
+        “Classic Books”
+	“Minimalism”
+	“Words”
     ]
 }

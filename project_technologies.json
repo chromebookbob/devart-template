@@ -1,11 +1,10 @@
 {
     "technologies": {
         "apis": [
-            “Pygame”
+            “Python"
         ],
         "platforms": [
-            “Python”
-	    “Google Books”
+            “raspberry pi"
         ],
         "toolkits": [
             “Pygame”
